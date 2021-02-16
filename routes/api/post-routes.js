@@ -223,7 +223,7 @@ module.exports = router;
 //         res.status(500).json(err);
 //       });
 //   });
-  
+
 
 // router.post('/', (req, res) => {
 //     // expects {title: 'Taskmaster goes public!', post_url: 'https://taskmaster.com/press', user_id: 1}
@@ -280,7 +280,7 @@ module.exports = router;
 //         res.status(400).json(err);
 //       });
 //   });
-  
+
 // router.put('/:id', (req, res) => {
 //     Post.update(
 //         {
